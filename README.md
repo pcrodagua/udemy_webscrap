@@ -1,2 +1,2 @@
-# udemy_webscrap
+# [Udemy] Webscrap Tutorial
 [Udemy] python master web scrap course
